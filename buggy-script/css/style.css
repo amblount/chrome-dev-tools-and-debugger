@@ -1,6 +1,6 @@
 body {
   background-color: gray;
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAP0lEQVQYV2NkIBIwYlE3EyqWjiyHrBCmAF0vWAO6QpAgsokgNlaF2FxMvkKQaXCr0NgobiRJIc5QxRaOWBUDACTgCwtehKeHAAAAAElFTkSuQmCC);
+  /*background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAP0lEQVQYV2NkIBIwYlE3EyqWjiyHrBCmAF0vWAO6QpAgsokgNlaF2FxMvkKQaXCr0NgobiRJIc5QxRaOWBUDACTgCwtehKeHAAAAAElFTkSuQmCC);*/
 }
 
 .die {
@@ -12,4 +12,8 @@ body {
   display: inline-block;
   font-size: 2em;
   text-align: center;
+}
+
+.winner .loser{
+  color: white;
 }
